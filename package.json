@@ -44,11 +44,11 @@
   },
   "homepage": "https://github.com/knpwrs/redux-saga-selector-channel#readme",
   "dependencies": {
-    "redux-saga": "^0.16.2"
+    "redux-saga": "^1.0.1"
   },
   "peerDependencies": {
     "redux": "^4.0.1",
-    "redux-saga": "^0.16.2"
+    "redux-saga": "^1.0.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.2.1",
